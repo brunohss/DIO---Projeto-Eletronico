@@ -20,6 +20,6 @@ Foi desenvolvido no TinkerCAD no link : https://www.tinkercad.com/things/b59RsxT
 
 As ligações eletricas descrita na imagem abaixo e o programa do arduino se encontra para efetuar o DOWNLOAD.
 
-![Descrição da imagem](LigEletronicaIOT.png)
+![Descrição da imagem](Projeto de Circuitos Eletrônicos - IoT.png)
 
 
